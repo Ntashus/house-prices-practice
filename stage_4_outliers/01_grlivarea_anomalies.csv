@@ -1,0 +1,5 @@
+Id,GrLivArea,SalePrice,OverallQual,OverallCond,Neighborhood,YearBuilt,TotalBsmtSF
+1299,5642,160000,10,5,Edwards,2008,6110
+524,4676,184750,10,5,Edwards,2007,3138
+1183,4476,745000,10,5,NoRidge,1996,2396
+692,4316,755000,10,6,NoRidge,1994,2444
